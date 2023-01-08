@@ -1,0 +1,15 @@
+C:\REPO\Example\Example005_Condition\bin\Debug\net6.0\Example005_Condition.exe
+C:\REPO\Example\Example005_Condition\bin\Debug\net6.0\Example005_Condition.deps.json
+C:\REPO\Example\Example005_Condition\bin\Debug\net6.0\Example005_Condition.runtimeconfig.json
+C:\REPO\Example\Example005_Condition\bin\Debug\net6.0\Example005_Condition.dll
+C:\REPO\Example\Example005_Condition\bin\Debug\net6.0\Example005_Condition.pdb
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\Example005_Condition.csproj.AssemblyReference.cache
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\Example005_Condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\Example005_Condition.AssemblyInfoInputs.cache
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\Example005_Condition.AssemblyInfo.cs
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\Example005_Condition.csproj.CoreCompileInputs.cache
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\Example005_Condition.dll
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\refint\Example005_Condition.dll
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\Example005_Condition.pdb
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\Example005_Condition.genruntimeconfig.cache
+C:\REPO\Example\Example005_Condition\obj\Debug\net6.0\ref\Example005_Condition.dll
